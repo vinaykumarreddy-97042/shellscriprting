@@ -1,2 +1,0 @@
-# shellscriprting
-shell scriprting
